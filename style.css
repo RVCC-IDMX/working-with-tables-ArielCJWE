@@ -1,3 +1,30 @@
 body {
-  background-color: aliceblue;
+  background-color: lightslategray;
 }
+table, th, td {
+  border: 2px solid beige;
+  border-collapse: collapse;
+  align-items: center;
+  text-align: center;
+}
+th{
+  font-style: italic;
+  font-size: large;
+}
+
+h1 {
+  text-align: center;
+font-variant: small-caps;
+}
+#intro {
+  text-align: center;
+font-variant: small-caps;
+}
+#credit{
+  font-variant: normal;
+  align-items: normal;
+}
+footer {
+  text-align: center;
+}
+
